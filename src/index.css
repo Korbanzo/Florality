@@ -1,3 +1,6 @@
 body {
     font-family: "Noto Sans Display", sans-serif;
+    background: #1f1f1f;
+    color: #F7F9F9;
+    scroll-behavior: smooth;
 }
